@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "6475832468",
+    "firebase_url": "https://communique-67f33.firebaseio.com",
+    "project_id": "communique-67f33",
+    "storage_bucket": "communique-67f33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6475832468:android:15d8dbb08ffe471c70a881",
+        "android_client_info": {
+          "package_name": "com.arvind.communique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6475832468-p90g4ft9jm9f89ccic02i7rtl5ma0dfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWBuW_QMlUh96Ls6Ul_PizkV1OmlfzbNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6475832468-p90g4ft9jm9f89ccic02i7rtl5ma0dfo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6475832468-vo1o83ihl4sfprce2vjgm4n9ria48rgs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arvind.communique"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
